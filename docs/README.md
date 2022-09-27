@@ -3,11 +3,13 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
+footer: "ECL 2.0 Licensed | Copyright © [2022] [Роман Литвинюк]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконали:** 
+
+*студент 2-го курсу, групи ІМ-13*<span padding-right:5em></span> **[Роман Литвинюк](https://t.me/n0pee0)**
 
 *студент 2-го курсу, групи ІМ-13*<span padding-right:5em></span> **[Дмитро Тавлуй](https://t.me/demasmxrxz)**
 
