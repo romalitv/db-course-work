@@ -7,7 +7,7 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 ---
 
 
-**Виконав:** 
+**Виконали:** 
 
 *студент 2-го курсу, групи ІМ-13*<span padding-right:5em></span> **[Артем Кущ] [https://t.me/omegalulist]**
 
