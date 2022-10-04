@@ -15,12 +15,12 @@
 
 ### Основні визначення та скорочення
 
-[Основні визначення та скорочення](state-of-the-art.md/#основні-визначення)
+[Основні визначення та скорочення](https://romalitv.github.io/db-course-work/requirements/state-of-the-art.html#основні-визначення)
 
 
 ### Посилання
 
-[Посилання](state-of-the-art.md/#посилання)
+[Посилання](https://romalitv.github.io/db-course-work/requirements/state-of-the-art.html#посилання)
 
 
 ## Короткий зміст
